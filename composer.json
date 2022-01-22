@@ -1,0 +1,14 @@
+{
+    "name": "root/fancy_bookshelf",
+    "description": "Plugin fancy bookshelf",
+    "type": "project",
+    "authors": [{
+        "name": "Fadi Mathlouthi",
+        "email": "f.mathlouthi8@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Inc\\": "./inc" }
+    }
+}
